@@ -1,6 +1,7 @@
 # practica3
-Importación de librerías necesarias
-Creación de set de entrenamiento
+
+# 1. Importación de librerías necesarias
+# 2. Creación de set de entrenamiento
 Usamos el modelo CNN 
 Entrenamos el modelo CNN
 Predicción para Test
